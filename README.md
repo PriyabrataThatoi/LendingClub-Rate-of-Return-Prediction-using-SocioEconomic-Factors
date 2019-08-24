@@ -2,4 +2,5 @@ A traditional banking counterpart, Lending Club is an online market place for bo
 
 Process Flow:
 
+https://github.com/PriyabrataThatoi/LendingClub-Rate-of-Return-Prediction-using-SocioEconomic-Factors/blob/master/Process_Flow.PNG
 
